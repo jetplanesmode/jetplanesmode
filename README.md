@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there 👋 I'm Jon Reyes
 
-<!--
-**jetplanesmode/jetplanesmode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Skills
+- ⚡ .NET / C#  
+- 🐘 PostgreSQL  
+- 🐳 Docker  
+- ☁️ AWS & Azure  
+- 🎨 React + Tailwind CSS  
 
-Here are some ideas to get you started:
+## 🚀 Projects
+🔹 [Laundry App - Lavandera Ko!](https://github.com/username/lavandera-ko)  
+🔹 [Coffee Shop Order Form (Excel VBA)](https://github.com/username/coffee-order-form)  
+🔹 [Minimal API Search with SOLID](https://github.com/username/minimal-api-search)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with me
+- 🌐 [Portfolio Website](https://yourportfolio.com)  
+- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)  
+ 
